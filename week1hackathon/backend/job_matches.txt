@@ -1,0 +1,33 @@
+Job Title: N/A
+Company: Binding Minds
+Link: N/A
+Match Score: 0.0
+Skill Match Explanation: Match Score: 40
+
+Explanation: The resume skills and job skills share some common areas such as programming languages, system management, and automation. However, the job skills require specific knowledge in system architecture, security policy enforcement, Active Directory, Intune, Microsoft Landing Zone, and Office365 which are not explicitly mentioned in the resume skills. Therefore, while there is some overlap, the candidate might lack specific skills required for the job. Hence, the match score is not very
+Experience Match Explanation: Match Score: 15
+
+Explanation: The resume experience provided does not match well with the job experience required. The job requires a minimum of 10 years of experience in creating and supporting operating system images for workstation and server hardware in an enterprise environment, preferably in a law firm. The resume, however, does not indicate any such experience. The job also requires strong knowledge of scripting language and automation of repetitive tasks through scripting language in Powershell, Windows Host Script, and Visual Basic scripting and programming, while the resume only mentions experience with Python and bash scripts. The resume also lacks experience in application installation package creation using Task Sequencing, Powershell and/or Windows MSI, which is required for the job. The only slight alignment is in the area
+Education Match Explanation: Match Score: 85
+
+Explanation: The applicant is currently pursuing a BSc in Computer Science with a double minor in Mathematics and Data Society, which is closely related to the job requirement of a bachelor's degree in a related field. The coursework mentioned in the resume also aligns well with the job requirements. However, the job posting also mentions the possibility of equivalent work experience, which is not mentioned in the resume education. Therefore, the match is not
+
+--------------------------------------------------------------------------------
+
+Job Title: N/A
+Company: Tomo Credit
+Link: N/A
+Match Score: 0.0
+Skill Match Explanation: Match Score: 80
+
+Explanation: The resume skills listed show a strong proficiency in various programming languages including Python, Java, and JavaScript which are mentioned in the job skills. The resume also shows experience in various technologies and tools that could be useful in full stack software engineering and back-end development. The professional skills listed in the resume, such as agile software development, performance tuning, problem solving, and multitasking, align well with the job skills such as optimizing application performance, writing clean and efficient code, and understanding business requirements.
+
+However, there is no explicit mention of experience in front-end technologies like HTML in the resume skills, which is a requirement in the job skills. Also, the job skills require collaboration with front-end developers and other
+Experience Match Explanation: Match Score: 65
+
+Explanation: The resume experience shows that the candidate has experience in Python development, web development, and software engineering, which are all technical skills that could be useful in a job that involves text preprocessing and feature extraction. However, the resume does not explicitly mention experience with the specific steps involved in text preprocessing that are mentioned in the job experience, such as tokenization, stopword removal, and lemmatization/stemming. Therefore, while the candidate's skills might be relevant, it's not a perfect match for the job
+Education Match Explanation: Match Score: 90
+
+Explanation: The applicant's education is a very good match for the job education requirement. The applicant is pursuing a Bachelor's degree in Computer Science which is exactly what the job requires. However, the job also mentions engineering or a related field as acceptable which is not explicitly stated in the resume. The double minor in mathematics and data society along with relevant coursework in software design, algorithms, data structures, and data science further strengthens the applicant's profile. The score is not a full 100 because the job listing also mentions equivalent experience as an alternative to the degree, which isn't addressed in the resume education
+
+--------------------------------------------------------------------------------

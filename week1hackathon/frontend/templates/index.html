@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CareerFit</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <div class="logo-placeholder"></div>
+            </div>
+            <nav>
+                <ul>
+                    <!-- <li><a href="#">Pricing</a></li> -->
+                    <!-- <li><a href="#">Solutions</a></li> -->
+                    <li><a href="#info">About</a></li>
+                    <!-- <li><a href="#">Community</a></li> -->
+                    <!-- <li><a href="#">Resources</a></li> -->
+                    <li><a href="#footer">Contact</a></li>
+                </ul>
+            </nav>
+            <div class="auth-buttons">
+                <!-- <button class="signin">Sign in</button> -->
+                <!-- <button class="register">Register</button> -->
+            </div>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1>CareerFit</h1>
+                <p>The AI that makes job search easier.</p>
+                <button class="learn-more" onclick="location.href='{{ url_for('form') }}'">Sign Up for Free Now </button>
+            </div>
+            <div class="hero-image">
+                <img src="{{ url_for('static', filename='careerfit.png') }}" alt="AI assisting with job search">
+            </div>
+        </div>
+    </section>
+
+    <section class="info" id="info">
+        <div class="container">
+            <h2>How does it work?</h2>
+            <h3>Subheading</h3>
+            <p>Body text for your whole article or post. We’ll put in some lorem ipsum to show how a filled-out page might look:</p>
+            <p>Exceptetur efficient emerging, minim veniam anim aute carefully curated Ginza conversation exquisite perfect nostrud nisi intricate Content. Qui international first-class nulla ut. Punctual adipisicing, essential lovely queen tempor eiusmod irure. Exclusive izakaya charming Scandinavian impeccable aute quality of life soft power pariatur Melbourne occaecat discerning. Qui wardrobe aliquip, et Porter destination Toto remarkable officia Helsinki excepteur Basset hound. Zürich sleepy perfect consectetur.</p>
+            <div class="info-image-placeholder"></div>
+        </div>
+    </section>
+
+    <footer id='footer'>
+        <div class="container">
+            <p>Contact us</p>
+            <!-- <a href="https://www.linkedin.com" target="_blank" class="social-icon"><i class="fab fa-linkedin"></i></a> -->
+            <a href="mailto:info@careerfit.com" class="social-icon"><i class="fas fa-envelope"></i></a>
+        </div>
+    </footer>
+</body>
+
+</html>

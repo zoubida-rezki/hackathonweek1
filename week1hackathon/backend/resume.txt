@@ -1,0 +1,83 @@
+Zoubida Rezki
+zoubidaziroki@gmail.com | (346) 775 4169 | GitHub : zoubida-rezki | LinkedIn : Zoubida Rezki
+EDUCATION
+BSc in Computer Science
+Aug 2021 - May 2025 (Expected)
+University of Houston, Houston, TX
+GPA: 3.4
+Double Minor in Mathematics and Data & Society
+Relevant Coursework: Software Design, Algorithms & Data Structures, Automata & Computability, Operating Systems,
+Computer Org & Architecture, Programming & Data Structures, Data Science I.
+WORK EXPERIENCE
+Python Developer
+Jun 2024 - Currently
+Gul.H.Zerze Lab (GHZ lab)
+University of Houston, Houston, TX
+●
+Developed custom filtering and alignment methods using Python for sequence alignments and clustering of 60 protein
+sequences, ensuring data integrity and comprehensive analysis across multiple datasets, enhancing research accuracy.
+●
+Automated data analysis for 120 DCD and CSV files using Python and bash scripts, utilizing GPU and high-memory
+Linux clusters, resulting in efficient data processing and plotting for 60 proteins, reducing processing time by 50%
+Webmaster
+Aug 2023 – Currently
+UH Cougarettes
+University of Houston, Houston, TX
+●
+Upgraded website using HTML, CSS, and JavaScript to integrate events calendar and Instagram feed, resulting in a 10%
+increase in event turnout by improving accessibility to event information for over 30 visitors.
+●
+Organized and taught 8 leet code workshops of 8-12 students, enhancing their understanding of algorithms and data
+structures, leading to a 25% increase in member turnout and 80% of participants saw an improvement in coding skills
+●
+Collaborated with a team of 9 officers to promote coding education in a supportive environment for women, leading to a
+40% increase in programming skill confidence among members.
+Software Engineer
+Sep 2023 – Mar 2024
+Computational Biomedicine Lab (CBL)
+University of Houston, Houston, TX
+●
+Developed and deployed an incremental learning model using Python, improving the accuracy of diagnosing pediatric
+conditions by 3%.
+●
+Built a secure website using Flask, MongoDB, and AWS for 50 clinicians to log and review clinical data, enhancing data
+organization and accessibility.
+Undergraduate AI/ML Research Assistant
+May 2023 – August 2023
+Computational Biomedicine Lab (CBL)
+University of Houston, Houston, TX
+●
+Enhanced facial recognition accuracy by 2.5% using TensorFlow, OpenCV, and scikit-learn, and reduced inference time by
+84.2% through optimization techniques.
+●
+Reduced storage size by 96.9% by applying an inference schema and k-means clustering to select the most informative data
+for inference tasks.
+Undergraduate Student Assistant AI Researcher
+Jan 2023 – May 2023
+CAHSI
+University of Houston, Houston, TX
+●
+Evaluated ML models using Anova and T-test to identify the optimal model for human body part recognition,
+streamlining the project workflow.
+●
+Processed 2000+ images for model performance evaluation, producing essential ground-truth annotations that were
+crucial for accurate model assessments.
+PROJECTS
+Heatwave prediction project (Women in Data Datathon):
+●
+Developed JavaScript scripts to retrieve and filter weather prediction data for the Mediterranean region, improving data
+accuracy and relevance.
+●
+Optimized front-end data presentation, contributing to a website predicting heat health risks, enhancing user experience.
+●
+Collaborated with a team to develop a user-friendly interface, increasing public awareness of heat health risks.
+Site link: https://nimraonline.github.io/HeatHealthHub/index.html
+Github Repo: https://github.com/NimraOnline/HeatHealthHub
+SKILLS & Languages
+Programming Languages: Python, Java, C++, JavaScript, Dart, Rust, SQL (Postgres)
+Technologies: TensorFlow, PyTorch, OpenCV, scikit-learn, Anaconda, React, Next.js, Flutter, Flask, Actix, AWS, MongoDB
+Tools: Visual Studio Code, PyCharm, Linux/Ubuntu, Bash, Windows, MS Office (Excel, Word), Visio, SharePoint
+Professional Skills: Agile Software Development, Performance Tuning, Analytical Skills, Problem-solving, Verbal and Written
+Communication, Organization, Multitasking
+
+--------------------------------------------------------------------------------
